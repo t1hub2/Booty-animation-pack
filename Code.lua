@@ -9,7 +9,7 @@ function notifyPlayer(title, text)
 end
 
 
-notifyPlayer("Booty Offender", "Originally Made By Kyutatsuki13")
+notifyPlayer("Booty Offender", "Оригинально создано от Kyutatsuki13")
 
 
 
